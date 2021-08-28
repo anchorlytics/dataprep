@@ -1,15 +1,17 @@
 {
-  "name": "@sermons/reveal-skel",
-  "repository": "sermons/reveal-skel",
-  "description": "A template for Reveal.js-based presentations",
+  "name": "@anchorlytics/dataprep",
+  "repository": "anchorlytics/dataprep",
+  "description": "Reproducible Data Preparation",
   "keywords": [
-    "slides"
+    "slides",
+    "presentation",
+    "data"
   ],
   "version": "2.5.6",
   "author": "Sean Ho <seanho@seanho.com> (http://seanho.com)",
   "config": {
     "pretty_url": "",
-    "cname": "reveal-skel.seanho.com",
+    "cname": "dataprep.anchorlytics.com",
     "multiplex": {
       "url": "https://mp.seanho.com/",
       "id": "22bc761ffc97809b"
@@ -20,9 +22,9 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
-        "date": "2000-01-01",
+        "venue": "PCM Community of Practise",
+        "city": "Zoom",
+        "date": "2021-09-24",
         "duration": 0
       }
     ],

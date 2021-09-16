@@ -29,7 +29,7 @@
       }
     ],
     "slides": [
-      "sample.md"
+      "slides.md"
     ],
     "reveal": "https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.1.0",
     "mathjax": "https://cdn.jsdelivr.net/npm/mathjax@2",

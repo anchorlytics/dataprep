@@ -1,5 +1,10 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="title" -->
+<!-- .slide: <%= bg("unsplash-TStNU7H4UEE-hand_sunset.jpg") %> -->
 # Reproducible Data Preparation
+[Montreal, CA. Marc-Olivier Jodoin](https://unsplash.com/photos/TStNU7H4UEE "caption")
+
+>>>
++ Seems like **unattainable** goal, but
++ **direction** we want to head in
 
 ---
 “**Reproducibility** refers to the ability of a researcher 

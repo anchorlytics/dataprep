@@ -35,6 +35,7 @@ to be **believable** and **informative**.”
 
 + Psychology: [Open Science Collaboration, *Science* (2015)](http://dx.doi.org/10.1126/science.aac4716)
 + Cancer biology: [Begley, C. G. and Ellis, L. M., *Nature* 483, 531–533 (2012)](https://www.nature.com/articles/483531a)
+
 <!-- .element: style="font-size: 0.5rem" -->
 
 [Baker, M., *Nature* 533, 452–454 (2016)](https://www.nature.com/articles/533452a "caption")
@@ -44,9 +45,7 @@ to be **believable** and **informative**.”
   + in **cancer biology**: 10%!
 
 ---
-## Technology Life Cycle
-![Technology life cycle](/img/Technology_Life_Cycle.png)
-<!-- .element: class="r-stretch" -->
+<!-- .slide: data-background-image="/img/Technology_Life_Cycle.png" class="empty" -->
 
 [CC-BY-SA 3.0](https://en.wikipedia.org/wiki/Technology_life_cycle "caption")
 
@@ -60,10 +59,9 @@ to be **believable** and **informative**.”
 + Reproducibility **accelerates** adoption, trust, agility in response to changing needs
 
 ---
-[![Research cycle](/img/research-cycle.jpg)](https://the-turing-way.netlify.app/)
-<!-- .element: class="r-stretch" -->
+<!-- .slide: data-background-image="/img/research-cycle.jpg" class="empty" -->
 
-[Scriberia for Turing Way, CC-BY 4.0](https://zenodo.org/record/4906004 "caption")
+[Scriberia for Turing Way, CC-BY 4.0](https://the-turing-way.netlify.app/ "caption")
 
 >>>
 + Data **processing** in the pipeine
@@ -73,8 +71,7 @@ to be **believable** and **informative**.”
 + **Beyond** reproducibility:
 
 ---
-![Reproducibility Grid](/img/reproducible-definition-grid.jpg)
-<!-- .element: class="r-stretch" -->
+<!-- .slide: data-background-image="/img/reproducible-definition-grid.jpg" class="empty" -->
 
 >>>
 + in our **context**:

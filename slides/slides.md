@@ -7,16 +7,21 @@
 + **direction** we want to head in
 
 ---
-“**Reproducibility** refers to the ability of a researcher 
-to duplicate the **results** of a prior study using the 
-same **materials** as were used by the original investigator. 
+“**Reproducibility** refers to the ability of <br>
+a researcher to duplicate <br>
+the **results** of a prior study <br>
+using the same **materials** as <br>
+were used by the original investigator. 
 
+<!--
 That is, a second researcher might use the same raw **data**
 to build the same analysis **files** and implement the same 
 statistical **analysis** in an attempt to yield the same results. 
+-->
 
-Reproducibility is a **minimum** necessary condition 
-for a finding to be **believable** and **informative**.”
+Reproducibility is a <br>
+**minimum** necessary condition for a finding <br>
+to be **believable** and **informative**.”
 
 [Report of the Subcommittee on Replicability in Science Advisory Committee, U.S. National Science Foundation, 2015](https://www.nsf.gov/sbe/AC_Materials/SBE_Robust_and_Reliable_Research_Report.pdf "caption")
 
@@ -25,8 +30,8 @@ for a finding to be **believable** and **informative**.”
 + Same **data**, same **analysis**
 
 ---
-## Reproducibility <br> Crisis in Research
 ![Failed to reproduce](/img/failed_to_repr.png)
+<!-- .element: class="r-stretch" -->
 
 + Psychology: [Open Science Collaboration, *Science* (2015)](http://dx.doi.org/10.1126/science.aac4716)
 + Cancer biology: [Begley, C. G. and Ellis, L. M., *Nature* 483, 531–533 (2012)](https://www.nature.com/articles/483531a)
@@ -39,7 +44,9 @@ for a finding to be **believable** and **informative**.”
 
 ---
 ## Technology Life Cycle
-[Technology life cycle](/img/Technology_Life_Cycle.png)
+![Technology life cycle](/img/Technology_Life_Cycle.png)
+<!-- .element: class="r-stretch" -->
+
 [CC-BY-SA 3.0](https://en.wikipedia.org/wiki/Technology_life_cycle "caption")
 
 >>>
@@ -52,8 +59,8 @@ for a finding to be **believable** and **informative**.”
 + Reproducibility **accelerates** adoption, trust, agility in response to changing needs
 
 ---
-## Research Cycle
 ![Research cycle](/img/research-cycle.jpg)
+<!-- .element: class="r-stretch" -->
 
 [The Turing Way](https://the-turing-way.netlify.app/)
 [Scriberia for Turing Way, CC-BY 4.0](https://zenodo.org/record/4906004 "caption")
@@ -63,11 +70,11 @@ for a finding to be **believable** and **informative**.”
   + Streamlining / productizing this **enables** research to iterate more quickly
 + Also **after** analysis + report publication:
   + **Data** publishing, archiving, and reuse
++ **Beyond** reproducibility:
 
 ---
-## Beyond Reproducibility
-
 ![Reproducibility Grid](/img/reproducible-definition-grid.jpg)
+<!-- .element: class="r-stretch" -->
 
 >>>
 + in our **context**:
@@ -75,13 +82,13 @@ for a finding to be **believable** and **informative**.”
 + **analyses**: kinds of reporting, charting
 
 ---
-## Software Engineering Principles 
+## Software Engineering 
 ### for research data analysis
 
 + **Reproducibility**: automation, syntax
-+ **Transparency**: docs, test cases, version control
++ **Transparency**: docs, tests, rev control
 + **Modularity**: packages and functions
-+ **Generalisability**: compartmentalisation of dataset-specific quirks
++ **Generalisability**: compartmentalise quirks
   + *multiple-select* questions
   + non-standard user-defined *missing*
   + erroneous *coding* of responses

@@ -45,7 +45,9 @@ to be **believable** and **informative**.”
   + in **cancer biology**: 10%!
 
 ---
-<!-- .slide: data-background-image="/img/Technology_Life_Cycle.png" class="empty" -->
+## Technology Life Cycle
+![Technology life cycle](/img/Technology_Life_Cycle.png)
+<!-- .element: class="r-stretch" -->
 
 [CC-BY-SA 3.0](https://en.wikipedia.org/wiki/Technology_life_cycle "caption")
 
@@ -59,9 +61,10 @@ to be **believable** and **informative**.”
 + Reproducibility **accelerates** adoption, trust, agility in response to changing needs
 
 ---
-<!-- .slide: data-background-image="/img/research-cycle.jpg" class="empty" -->
+[![Research cycle](/img/research-cycle.jpg)](https://the-turing-way.netlify.app/)
+<!-- .element: class="r-stretch" -->
 
-[Scriberia for Turing Way, CC-BY 4.0](https://the-turing-way.netlify.app/ "caption")
+[Scriberia for Turing Way, CC-BY 4.0](https://zenodo.org/record/4906004 "caption")
 
 >>>
 + Data **processing** in the pipeine
@@ -71,7 +74,8 @@ to be **believable** and **informative**.”
 + **Beyond** reproducibility:
 
 ---
-<!-- .slide: data-background-image="/img/reproducible-definition-grid.jpg" class="empty" -->
+![Reproducibility Grid](/img/reproducible-definition-grid.jpg)
+<!-- .element: class="r-stretch" -->
 
 >>>
 + in our **context**:
